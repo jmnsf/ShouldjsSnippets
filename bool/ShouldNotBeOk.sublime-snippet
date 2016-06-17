@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).not.be.ok();
+]]></content>
+  <tabTrigger>shnok</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is not thuthy according javascript type conversions.</description>
+</snippet>

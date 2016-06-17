@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).equal(${2:expectation});
+]]></content>
+  <tabTrigger>sheq</tabTrigger>
+  <scope>source.js</scope>
+  <description>Exact comparison using ===.</description>
+</snippet>

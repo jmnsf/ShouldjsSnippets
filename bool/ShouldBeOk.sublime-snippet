@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.ok();
+]]></content>
+  <tabTrigger>shok</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is thuthy according javascript type conversions.</description>
+</snippet>
