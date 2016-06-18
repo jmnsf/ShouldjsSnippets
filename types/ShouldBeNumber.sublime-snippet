@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.a.Number();
+]]></content>
+  <tabTrigger>shbnum</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is a number.</description>
+</snippet>

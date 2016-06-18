@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.a.Boolean();
+]]></content>
+  <tabTrigger>shbbool</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is a boolean.</description>
+</snippet>

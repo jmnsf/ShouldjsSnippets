@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.Null();
+]]></content>
+  <tabTrigger>shbnull</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is null.</description>
+</snippet>

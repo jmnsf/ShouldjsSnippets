@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.a.String();
+]]></content>
+  <tabTrigger>shbstr</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is a string.</description>
+</snippet>
