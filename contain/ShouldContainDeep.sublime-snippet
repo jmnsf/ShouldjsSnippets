@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).containDeep(${2:expectation});
+]]></content>
+  <tabTrigger>shcd</tabTrigger>
+  <scope>source.js</scope>
+  <description>The same like Assertion#containDeepOrdered but all checks on arrays without order.</description>
+</snippet>

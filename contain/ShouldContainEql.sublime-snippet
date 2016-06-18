@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).containEql(${2:expectation});
+]]></content>
+  <tabTrigger>shceql</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert that given object contain something that equal to other. It uses should-equal for equality checks.</description>
+</snippet>
