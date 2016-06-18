@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).have.ownProperty(${2:name});
+]]></content>
+  <tabTrigger>shownprop</tabTrigger>
+  <scope>source.js</scope>
+  <description>Asserts given object has own property. Chainable.</description>
+</snippet>

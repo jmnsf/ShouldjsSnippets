@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.empty();
+]]></content>
+  <tabTrigger>shbempty</tabTrigger>
+  <scope>source.js</scope>
+  <description>Asserts given object is empty.</description>
+</snippet>

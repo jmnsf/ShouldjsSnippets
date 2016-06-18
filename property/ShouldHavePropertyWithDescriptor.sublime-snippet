@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).have.propertyWithDescriptor(${2:name}, ${3:descriptor});
+]]></content>
+  <tabTrigger>shpropdesc</tabTrigger>
+  <scope>source.js</scope>
+  <description>Asserts given object has some descriptor. Chainable.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).have.keys(${2:...keys});
+]]></content>
+  <tabTrigger>shkeys</tabTrigger>
+  <scope>source.js</scope>
+  <description>Asserts given object has exact keys.</description>
+</snippet>
