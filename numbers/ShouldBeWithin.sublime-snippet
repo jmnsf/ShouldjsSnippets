@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.within(${2:min}, ${3:max});
+]]></content>
+  <tabTrigger>shwithin</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given number between min and max or equal to one of them.</description>
+</snippet>
