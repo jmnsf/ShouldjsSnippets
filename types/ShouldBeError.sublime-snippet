@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.an.Error();
+]]></content>
+  <tabTrigger>shberr</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is an error.</description>
+</snippet>

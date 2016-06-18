@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.a.Class();
+]]></content>
+  <tabTrigger>shbclass</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object has some internal [[Class]], via Object.prototype.toString call.</description>
+</snippet>

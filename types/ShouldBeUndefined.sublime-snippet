@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.Undefined();
+]]></content>
+  <tabTrigger>shbundef</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is undefined.</description>
+</snippet>
