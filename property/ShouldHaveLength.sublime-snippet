@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).have.length(${2:length});
+]]></content>
+  <tabTrigger>shlength</tabTrigger>
+  <scope>source.js</scope>
+  <description>Asserts given object has property length with given value.</description>
+</snippet>

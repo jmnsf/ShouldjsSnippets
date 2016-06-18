@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).have.property(${2:name}, ${3:value});
+]]></content>
+  <tabTrigger>shprop</tabTrigger>
+  <scope>source.js</scope>
+  <description>Asserts given object has property with optionally value. Chainable.</description>
+</snippet>

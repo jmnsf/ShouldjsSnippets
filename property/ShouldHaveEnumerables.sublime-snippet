@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).have.enumerables(${2:...names});
+]]></content>
+  <tabTrigger>shenums</tabTrigger>
+  <scope>source.js</scope>
+  <description>Asserts given object has enumerable properties.</description>
+</snippet>
