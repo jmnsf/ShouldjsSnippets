@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:string}).startWith(${2:prefix});
+]]></content>
+  <tabTrigger>shstart</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given string starts with prefix.</description>
+</snippet>
