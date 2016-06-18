@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.greaterThan(${2:n});
+]]></content>
+  <tabTrigger>shgt</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given number above n.</description>
+</snippet>

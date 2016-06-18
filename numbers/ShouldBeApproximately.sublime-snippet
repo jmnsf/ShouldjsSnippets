@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.approximately(${2:value}, ${3:delta});
+]]></content>
+  <tabTrigger>shapprox</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given number near some other value within delta.</description>
+</snippet>

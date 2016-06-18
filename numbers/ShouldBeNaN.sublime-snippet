@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.NaN();
+]]></content>
+  <tabTrigger>shnan</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given object is NaN.</description>
+</snippet>
