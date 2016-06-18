@@ -2,6 +2,8 @@
 
 This is a package for Sublime Text 2 & 3 that provides autocompletion for the [ShouldJS](https://shouldjs.github.io/) assertion library. It supports only calls in the format `should(target).assertion(expectation)`. It *does not* include snippets like `target.should.assertion(expectation)`. This is by design.
 
+![](/ShouldJsSnippets.gif)
+
 ## Installation
 
 #### 1. Through git
