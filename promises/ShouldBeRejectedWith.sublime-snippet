@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.rejectedWith(${2:error});
+]]></content>
+  <tabTrigger>shrejwith</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given promise will be rejected with some sort of error. Arguments is the same for Assertion#throw.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).be.fulfilled();
+]]></content>
+  <tabTrigger>shfulfilled</tabTrigger>
+  <scope>source.js</scope>
+  <description>Assert given promise will be fulfilled. Result of assertion is still .thenable and should be handled accordingly.</description>
+</snippet>
