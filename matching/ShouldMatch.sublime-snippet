@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).match(${2:matcher});
+]]></content>
+  <tabTrigger>shmt</tabTrigger>
+  <scope>source.js</scope>
+  <description>should(target).match(str|regex|obj|fun)</description>
+</snippet>
