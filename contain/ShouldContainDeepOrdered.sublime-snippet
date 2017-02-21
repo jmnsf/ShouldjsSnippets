@@ -4,5 +4,5 @@ should(${1:target}).containDeepOrdered(${2:expectation});
 ]]></content>
   <tabTrigger>shcdo</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert that given object is contain equally structured object on the same depth level.</description>
+  <description>should(target).containDeepOrdered(expectation)</description>
 </snippet>

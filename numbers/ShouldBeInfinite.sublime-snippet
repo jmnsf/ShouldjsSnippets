@@ -4,5 +4,5 @@ should(${1:target}).be.Infinity();
 ]]></content>
   <tabTrigger>shinf</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is not finite (positive or negative).</description>
+  <description>should(target).be.Infinity()</description>
 </snippet>

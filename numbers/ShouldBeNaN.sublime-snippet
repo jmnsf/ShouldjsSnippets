@@ -4,5 +4,5 @@ should(${1:target}).be.NaN();
 ]]></content>
   <tabTrigger>shnan</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is NaN.</description>
+  <description>should(target).be.NaN()</description>
 </snippet>

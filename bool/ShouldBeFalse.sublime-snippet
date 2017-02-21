@@ -4,5 +4,5 @@ should(${1:target}).be.false();
 ]]></content>
   <tabTrigger>shfs</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is exactly false.</description>
+  <description>should(target).be.false()</description>
 </snippet>

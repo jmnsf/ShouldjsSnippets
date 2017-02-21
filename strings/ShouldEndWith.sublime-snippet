@@ -4,5 +4,5 @@ should(${1:string}).endWith(${2:suffix});
 ]]></content>
   <tabTrigger>shend</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given string ends with suffix.</description>
+  <description>should(string).endWith(suffix)</description>
 </snippet>

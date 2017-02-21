@@ -4,5 +4,5 @@ should(${1:target}).be.lessThan(${2:n});
 ]]></content>
   <tabTrigger>shlt</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given number below n.</description>
+  <description>should(target).be.lessThan(n)</description>
 </snippet>

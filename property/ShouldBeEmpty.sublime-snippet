@@ -4,5 +4,5 @@ should(${1:target}).be.empty();
 ]]></content>
   <tabTrigger>shbempty</tabTrigger>
   <scope>source.js</scope>
-  <description>Asserts given object is empty.</description>
+  <description>should(target).be.empty()</description>
 </snippet>

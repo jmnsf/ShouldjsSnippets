@@ -4,5 +4,5 @@ should(${1:target}).have.propertyByPath(${2:...path}).equal(${3:value});
 ]]></content>
   <tabTrigger>shpropbpeq</tabTrigger>
   <scope>source.js</scope>
-  <description>Asserts given object has nested property in depth by path of certain value.</description>
+  <description>should(target).have.propertyByPath(path).equal(value)</description>
 </snippet>

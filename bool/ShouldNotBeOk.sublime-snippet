@@ -4,5 +4,5 @@ should(${1:target}).not.be.ok();
 ]]></content>
   <tabTrigger>shnok</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is not thuthy according javascript type conversions.</description>
+  <description>should(target).not.be.ok()</description>
 </snippet>

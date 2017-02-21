@@ -4,5 +4,5 @@ should(${1:target}).be.Arguments();
 ]]></content>
   <tabTrigger>shbargs</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is arguments.</description>
+  <description>should(target).be.Arguments()</description>
 </snippet>

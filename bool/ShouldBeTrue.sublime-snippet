@@ -4,5 +4,5 @@ should(${1:target}).be.true();
 ]]></content>
   <tabTrigger>shtr</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is exactly true.</description>
+  <description>should(target).be.true()</description>
 </snippet>

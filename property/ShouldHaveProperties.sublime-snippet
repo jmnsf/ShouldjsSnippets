@@ -4,5 +4,5 @@ should(${1:target}).have.properties(${2:props});
 ]]></content>
   <tabTrigger>shprops</tabTrigger>
   <scope>source.js</scope>
-  <description>Asserts given object has properties. Takes string, array or object.</description>
+  <description>should(target).have.properties(expectation)</description>
 </snippet>

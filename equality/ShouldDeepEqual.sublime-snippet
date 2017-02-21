@@ -4,5 +4,5 @@ should(${1:target}).deepEqual(${2:expectation});
 ]]></content>
   <tabTrigger>shdeq</tabTrigger>
   <scope>source.js</scope>
-  <description>Deep object equality comparison.</description>
+  <description>should(target).deepEqual(expectation)</description>
 </snippet>

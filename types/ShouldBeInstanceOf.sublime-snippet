@@ -4,5 +4,5 @@ should(${1:target}).be.instanceOf(${2:constructor});
 ]]></content>
   <tabTrigger>shbinst</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is instance of constructor.</description>
+  <description>should(target).be.instanceOf(constructor)</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-should(${1:target}).be.fulfilledWith(${2:value});
+should(${1:target}).be.fulfilledWith(${2:expectation});
 ]]></content>
   <tabTrigger>shfulwith</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given promise will be fulfilled with some expected value (value compared using .eql).</description>
+  <description>should(target).be.fulfilledWith(expectation)</description>
 </snippet>
