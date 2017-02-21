@@ -4,5 +4,5 @@ should(${1:target}).be.an.Object();
 ]]></content>
   <tabTrigger>shbobj</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is object.</description>
+  <description>should(target).be.an.Object()</description>
 </snippet>

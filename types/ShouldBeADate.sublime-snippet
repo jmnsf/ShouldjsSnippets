@@ -4,5 +4,5 @@ should(${1:target}).be.a.Date();
 ]]></content>
   <tabTrigger>shbdate</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is a date.</description>
+  <description>should(target).be.a.Date()</description>
 </snippet>

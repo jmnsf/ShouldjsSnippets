@@ -4,5 +4,5 @@ should(${1:target}).equal(${2:expectation});
 ]]></content>
   <tabTrigger>sheq</tabTrigger>
   <scope>source.js</scope>
-  <description>Exact comparison using ===.</description>
+  <description>should(target).equal(expectation)</description>
 </snippet>

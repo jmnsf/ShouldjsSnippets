@@ -4,5 +4,5 @@ should(${1:target}).be.a.Function();
 ]]></content>
   <tabTrigger>shbfun</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is a function.</description>
+  <description>should(target).be.a.Function()</description>
 </snippet>

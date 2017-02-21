@@ -4,5 +4,5 @@ should(${1:target}).be.an.Array();
 ]]></content>
   <tabTrigger>shbarr</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is array.</description>
+  <description>should(target).be.an.Array()</description>
 </snippet>

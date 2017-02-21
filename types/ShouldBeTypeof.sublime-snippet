@@ -4,5 +4,5 @@ should(${1:target}).be.type(${2:type});
 ]]></content>
   <tabTrigger>shbtypeof</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object has some type using typeof.</description>
+  <description>should(target).be.type(expectation)</description>
 </snippet>

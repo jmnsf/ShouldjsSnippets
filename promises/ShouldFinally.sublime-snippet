@@ -4,5 +4,5 @@ should(${1:target}).finally.${2:matcher};
 ]]></content>
   <tabTrigger>shfinaly</tabTrigger>
   <scope>source.js</scope>
-  <description>Assert given object is promise and wrap it in PromisedAssertion, which has all properties of Assertion.</description>
+  <description>should(target).finally.`matcher`</description>
 </snippet>

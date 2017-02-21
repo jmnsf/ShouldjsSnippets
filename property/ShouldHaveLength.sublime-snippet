@@ -4,5 +4,5 @@ should(${1:target}).have.length(${2:length});
 ]]></content>
   <tabTrigger>shlength</tabTrigger>
   <scope>source.js</scope>
-  <description>Asserts given object has property length with given value.</description>
+  <description>should(target).have.length(expectation)</description>
 </snippet>
