@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.Undefined();
 ]]></content>
-  <tabTrigger>shbundef</tabTrigger>
+  <tabTrigger>shund</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.Undefined()</description>
 </snippet>

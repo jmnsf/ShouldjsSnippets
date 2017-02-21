@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.a.Function();
 ]]></content>
-  <tabTrigger>shbfun</tabTrigger>
+  <tabTrigger>shfun</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.a.Function()</description>
 </snippet>

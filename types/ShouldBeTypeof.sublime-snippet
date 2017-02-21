@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.type(${2:type});
 ]]></content>
-  <tabTrigger>shbtypeof</tabTrigger>
+  <tabTrigger>shtype</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.type(expectation)</description>
 </snippet>

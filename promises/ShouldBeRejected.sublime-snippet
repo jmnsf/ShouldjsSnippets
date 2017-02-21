@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.rejected();
 ]]></content>
-  <tabTrigger>shrejected</tabTrigger>
+  <tabTrigger>shrej</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.rejected()</description>
 </snippet>

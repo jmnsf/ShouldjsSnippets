@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.false();
 ]]></content>
-  <tabTrigger>shfs</tabTrigger>
+  <tabTrigger>shf</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.false()</description>
 </snippet>

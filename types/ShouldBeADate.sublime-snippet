@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.a.Date();
 ]]></content>
-  <tabTrigger>shbdate</tabTrigger>
+  <tabTrigger>shdate</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.a.Date()</description>
 </snippet>

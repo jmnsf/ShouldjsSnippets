@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.a.Boolean();
 ]]></content>
-  <tabTrigger>shbbool</tabTrigger>
+  <tabTrigger>shbool</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.a.Boolean()</description>
 </snippet>

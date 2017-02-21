@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).have.propertyByPath(${2:...path});
 ]]></content>
-  <tabTrigger>shpropbp</tabTrigger>
+  <tabTrigger>shproppath</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).have.propertyByPath(...path)</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).containEql(${2:expectation});
 ]]></content>
-  <tabTrigger>shceql</tabTrigger>
+  <tabTrigger>shceq</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).containEql(expectation)</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.an.Object();
 ]]></content>
-  <tabTrigger>shbobj</tabTrigger>
+  <tabTrigger>shobj</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.an.Object()</description>
 </snippet>
