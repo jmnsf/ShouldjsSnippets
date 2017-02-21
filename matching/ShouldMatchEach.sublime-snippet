@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).matchEach(${2:matcher});
+]]></content>
+  <tabTrigger>shmtea</tabTrigger>
+  <scope>source.js</scope>
+  <description>should(target).matchEach(regex|fun)</description>
+</snippet>
