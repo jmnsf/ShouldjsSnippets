@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.an.Array();
 ]]></content>
-  <tabTrigger>shbarr</tabTrigger>
+  <tabTrigger>sharr</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.an.Array()</description>
 </snippet>

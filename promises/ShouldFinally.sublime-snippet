@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).finally.${2:matcher};
 ]]></content>
-  <tabTrigger>shfinaly</tabTrigger>
+  <tabTrigger>shfin</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).finally.`matcher`</description>
 </snippet>

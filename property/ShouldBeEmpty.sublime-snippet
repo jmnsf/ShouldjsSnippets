@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.empty();
 ]]></content>
-  <tabTrigger>shbempty</tabTrigger>
+  <tabTrigger>shemp</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.empty()</description>
 </snippet>

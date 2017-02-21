@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.rejectedWith(${2:error});
 ]]></content>
-  <tabTrigger>shrejwith</tabTrigger>
+  <tabTrigger>shrwith</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.rejectedWith(error)</description>
 </snippet>

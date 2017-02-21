@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.a.Class();
 ]]></content>
-  <tabTrigger>shbclass</tabTrigger>
+  <tabTrigger>shclass</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.a.Class()</description>
 </snippet>

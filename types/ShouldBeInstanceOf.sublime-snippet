@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.instanceOf(${2:constructor});
 ]]></content>
-  <tabTrigger>shbinst</tabTrigger>
+  <tabTrigger>shinst</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.instanceOf(constructor)</description>
 </snippet>

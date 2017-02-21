@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.a.Promise();
 ]]></content>
-  <tabTrigger>shbpromise</tabTrigger>
+  <tabTrigger>shprom</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.a.Promise()</description>
 </snippet>

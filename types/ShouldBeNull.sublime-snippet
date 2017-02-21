@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.Null();
 ]]></content>
-  <tabTrigger>shbnull</tabTrigger>
+  <tabTrigger>shnull</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.Null()</description>
 </snippet>

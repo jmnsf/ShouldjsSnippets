@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.an.Error();
 ]]></content>
-  <tabTrigger>shberr</tabTrigger>
+  <tabTrigger>sherr</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.an.Error()</description>
 </snippet>

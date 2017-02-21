@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.fulfilled();
 ]]></content>
-  <tabTrigger>shfulfilled</tabTrigger>
+  <tabTrigger>shful</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.fulfilled()</description>
 </snippet>

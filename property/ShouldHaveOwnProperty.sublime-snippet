@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).have.ownProperty(${2:name});
 ]]></content>
-  <tabTrigger>shownprop</tabTrigger>
+  <tabTrigger>shoprop</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).have.ownProperty(name)</description>
 </snippet>

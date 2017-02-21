@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).have.length(${2:length});
 ]]></content>
-  <tabTrigger>shlength</tabTrigger>
+  <tabTrigger>shlen</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).have.length(expectation)</description>
 </snippet>

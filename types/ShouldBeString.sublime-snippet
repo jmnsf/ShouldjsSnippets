@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.a.String();
 ]]></content>
-  <tabTrigger>shbstr</tabTrigger>
+  <tabTrigger>shstr</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.a.String()</description>
 </snippet>

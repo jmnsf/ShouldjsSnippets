@@ -2,7 +2,7 @@
   <content><![CDATA[
 should(${1:target}).be.Arguments();
 ]]></content>
-  <tabTrigger>shbargs</tabTrigger>
+  <tabTrigger>shargs</tabTrigger>
   <scope>source.js</scope>
   <description>should(target).be.Arguments()</description>
 </snippet>
