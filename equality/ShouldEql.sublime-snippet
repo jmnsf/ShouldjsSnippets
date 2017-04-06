@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+should(${1:target}).eql(${2:expectation});
+]]></content>
+  <tabTrigger>sheql</tabTrigger>
+  <scope>source.js</scope>
+  <description>should(target).eql(expectation)</description>
+</snippet>

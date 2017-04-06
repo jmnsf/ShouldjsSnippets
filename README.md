@@ -26,6 +26,7 @@ Download this repo as a ShouldjsSnippets folder and save it into your packages (
 |**Trigger**|**Snippet**                            |
 |-----------|---------------------------------------|
 |sheq       |`should(target).equal(expectation)`    |
+|sheql      |`should(target).eql(expectation)       |
 |shdeq      |`should(target).deepEqual(expectation)`|
 
 ### Booleans
