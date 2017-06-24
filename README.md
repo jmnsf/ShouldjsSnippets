@@ -40,11 +40,11 @@ Download this repo as a ShouldjsSnippets folder and save it into your packages (
 
 ### Matching
 
-|**Trigger**|**Snippet**                                              |
-|-----------|---------------------------------------------------------|
-|shmt       |`should(target).match(str&#124;regex&#124;obj&#124;fun)` |
-|shmtea     |`should(target).matchEach(regex&#124;fun)`               |
-|shmtsm     |`should(target).matchSome(regex&#124;fun)`               |
+|**Trigger**|**Snippet**                                   |
+|-----------|----------------------------------------------|
+|shmt       |`should(target).match(str\|regex\|obj\|fun)`  |
+|shmtea     |`should(target).matchEach(regex\|fun)`        |
+|shmtsm     |`should(target).matchSome(regex\|fun)`        |
 
 ### Numbers
 
